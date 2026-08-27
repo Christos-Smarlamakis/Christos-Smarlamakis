@@ -1,4 +1,4 @@
-# ChristosSmarlamakis
+# Christos Smarlamakis
 *Supported by the IEEE Computer Society WEIGD Student Support Fund (2026)*
 
 ---
