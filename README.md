@@ -49,10 +49,3 @@
 </div>
 
 ---
-
-### Academic & Professional Contact
-
-- **Institution Email:** ch.smarlamakis@go.uop.gr
-- **ORCID:** [Link to your ORCID profile]
-- **Google Scholar:** [Link to your Scholar profile]
-- **LinkedIn:** [Link to your LinkedIn profile]
