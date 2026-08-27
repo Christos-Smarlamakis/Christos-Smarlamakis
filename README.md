@@ -1,6 +1,10 @@
 # Christos Smarlamakis
 *Supported by the IEEE Computer Society WEIGD Student Support Fund (2026)*
 
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Christos-Smarlamakis&color=006699&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Christos-Smarlamakis)
+
 ---
 
 ### Research Focus & Interests
@@ -68,18 +72,14 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Christos-Smarlamakis&theme=tokyonight" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Christos-Smarlamakis&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Christos-Smarlamakis&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Christos-Smarlamakis&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Christos-Smarlamakis/Christos-Smarlamakis/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=Christos-Smarlamakis&color=006699&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Christos-Smarlamakis&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Christos-Smarlamakis&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
+
+### Academic & Professional Contact
+
+- **Institution Email:** [ch.smarlamakis@go.uop.gr](mailto:ch.smarlamakis@go.uop.gr)
+- **Institution Profile:** [University of the Peloponnese](https://www.uop.gr/)
