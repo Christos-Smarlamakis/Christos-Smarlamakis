@@ -44,8 +44,8 @@
 ### GitHub Telemetry & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChristosSmarlamakis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristosSmarlamakis&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Christos-Smarlamakis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christos-Smarlamakis&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
