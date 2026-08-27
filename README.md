@@ -1,12 +1,12 @@
 # Christos Smarlamakis
-*Supported by the IEEE Computer Society WEIGD Student Support Fund (2026)*
 
+*Supported by the IEEE Computer Society WEIGD Student Support Fund (2026)*
 ---
 
 ### Research Focus & Interests
 - **Spatio-Temporal Graph Neural Networks (ST-GNNs / ST-GAT)** for dynamic spatial-temporal coordination.
 - **Hierarchical Multi-Agent Deep Reinforcement Learning (HMADRL)** under partial observability (POMDPs).
-- **Autonomous UAV Swarm Mission Planning** under safety and energy constraints.
+- **Autonomous UAV Swarm Mission Planning** under safety, energy, and NATO CJCSI 3160.01A constraints.
 - **Autonomous Decision Support & Information Foraging Systems** with decoupled and local-first AI architectures.
 - **Unsupervised Learning** (K-Means clustering, TF-IDF text representation) for pattern discovery and information retrieval.
 - **Metaheuristic Optimization & Swarm Intelligence** for complex optimization and autonomous decision-making.
@@ -30,20 +30,20 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-Machine_Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![K-Means](https://img.shields.io/badge/K_Means-Clustering-6A5ACD?style=flat-square)
 ![TF-IDF](https://img.shields.io/badge/TF--IDF-Text_Representation-6A5ACD?style=flat-square)
-![Metaheuristics](https://img.shields.io/badge/Metaheuristics-Optimization-orange?style=flat-square)
-![GWO](https://img.shields.io/badge/GWO-Grey_Wolf_Optimizer-orange?style=flat-square)
+![Metaheuristics](https://img.shields.io/badge/Metaheuristics-Optimization-E67E22?style=flat-square)
+![GWO](https://img.shields.io/badge/GWO-Grey_Wolf_Optimizer-E67E22?style=flat-square)
 
 #### Distributed Computing & Data Engineering
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-Distributed_Computing-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-Spark_Python_API-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-Python_API-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-Programming-DC322F?style=flat-square&logo=scala&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-Distributed_Computing-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Apache_Hadoop-Distributed_Computing-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
 
-#### Data Visualization & GUI
+#### Data Visualization & UI
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Plotting-11557C?style=flat-square&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive_Viz-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical_Viz-4C72B0?style=flat-square)
-![Tkinter](https://img.shields.io/badge/Tkinter-GUI-FFD43B?style=flat-square&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI_Development-FFD43B?style=flat-square&logo=python&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-WebGL_3D-000000?style=flat-square&logo=threedotjs&logoColor=white)
 
 #### Systems, Middleware & DevOps
@@ -59,22 +59,16 @@
 ### Core Research Projects
 
 - **Project TALOS (v5.10.x):** Tactical Agentic Literature Orchestration System. An autonomous decision support platform leveraging hierarchical reinforcement learning and a multi-provider, local-first LLM mesh for systematic scientific discovery.
-
 - **Project OPTICA (v1.x):** Autonomous scientific rendering engine for publication-grade vector graphics, including `cnsplots` and PyVis-based topologies.
+- **Project ATHENA (Apex):** Decentralized cooperative mission planning and collision avoidance framework for physical UAV swarms using ST-GAT and HMADRL.
 
 ---
 
 ### GitHub Telemetry & Stats
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Christos-Smarlamakis&theme=tokyonight" alt="Profile Details" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Christos-Smarlamakis&theme=tokyonight" alt="GitHub Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Christos-Smarlamakis&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Christos-Smarlamakis&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Christos-Smarlamakis&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Christos-Smarlamakis&theme=tokyonight" alt="Top Languages" />
   <img src="https://github-profile-trophy.vercel.app/?username=Christos-Smarlamakis&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</div>
-
-### Contribution Activity
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Christos-Smarlamakis/Christos-Smarlamakis/output/github-contribution-grid-snake.svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Christos-Smarlamakis&color=blue&style=flat-square)
