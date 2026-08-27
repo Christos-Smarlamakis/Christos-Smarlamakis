@@ -6,6 +6,7 @@
 - **Hierarchical Multi-Agent Deep Reinforcement Learning (HMADRL)** under partial observability (POMDPs).
 - **Autonomous UAV Swarm Mission Planning** under safety, energy.
 - **Autonomous Decision Support & Information Foraging Systems** (Decoupled & Local-First AI architectures).
+- **Unsupervised Learning** (K-Means clustering, TF-IDF text representation) for pattern discovery and information retrieval.
 ---
 ### Technologies & Frameworks
 #### Languages & Core
@@ -21,8 +22,15 @@
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-RL_Environments-008080?style=flat-square)
 ![Stanford DSPy](https://img.shields.io/badge/Stanford_DSPy-Prompt_Optimization-006699?style=flat-square)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-Machine_Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![K-Means](https://img.shields.io/badge/K_Means-Clustering-6A5ACD?style=flat-square)
+![TF-IDF](https://img.shields.io/badge/TF--IDF-Text_Representation-6A5ACD?style=flat-square)
 ![Metaheuristics](https://img.shields.io/badge/Metaheuristics-Optimization-orange?style=flat-square)
 ![GWO](https://img.shields.io/badge/GWO-Grey_Wolf_Optimizer-orange?style=flat-square)
+#### Data Visualization & GUI
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Plotting-11557C?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive_Viz-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical_Viz-4C72B0?style=flat-square)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI-FFD43B?style=flat-square&logo=python&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-WebGL_3D-000000?style=flat-square&logo=threedotjs&logoColor=white)
 #### Systems, Middleware & DevOps
 ![FastAPI](https://img.shields.io/badge/FastAPI-REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
