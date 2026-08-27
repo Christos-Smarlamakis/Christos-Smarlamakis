@@ -1,6 +1,6 @@
 # Christos Smarlamakis
-
 *Supported by the IEEE Computer Society WEIGD Student Support Fund (2026)*
+
 ---
 
 ### Research Focus & Interests
@@ -72,3 +72,14 @@
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Christos-Smarlamakis&theme=tokyonight" alt="Top Languages" />
   <img src="https://github-profile-trophy.vercel.app/?username=Christos-Smarlamakis&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Christos-Smarlamakis/Christos-Smarlamakis/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Christos-Smarlamakis&color=006699&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
+---
