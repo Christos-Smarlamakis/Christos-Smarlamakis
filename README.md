@@ -2,9 +2,6 @@
 *Supported by the IEEE Computer Society WEIGD Student Support Fund (2026)*
 
 <br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Christos-Smarlamakis&color=006699&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Christos-Smarlamakis)
-
 ---
 
 ### Research Focus & Interests
