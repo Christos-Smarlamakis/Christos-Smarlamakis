@@ -10,7 +10,7 @@
 ### Research Focus & Interests
 - **Spatio-Temporal Graph Neural Networks (ST-GNNs / ST-GAT)** for dynamic spatial-temporal coordination.
 - **Hierarchical Multi-Agent Deep Reinforcement Learning (HMADRL)** under partial observability (POMDPs).
-- **Autonomous UAV Swarm Mission Planning** under safety, energy, and NATO CJCSI 3160.01A constraints.
+- **Autonomous UAV Swarm Mission Planning** under safety, energy constraints.
 - **Autonomous Decision Support & Information Foraging Systems** with decoupled and local-first AI architectures.
 - **Unsupervised Learning** (K-Means clustering, TF-IDF text representation) for pattern discovery and information retrieval.
 - **Metaheuristic Optimization & Swarm Intelligence** for complex optimization and autonomous decision-making.
@@ -64,8 +64,6 @@
 
 - **Project TALOS (v5.10.x):** Tactical Agentic Literature Orchestration System. An autonomous decision support platform leveraging hierarchical reinforcement learning and a multi-provider, local-first LLM mesh for systematic scientific discovery.
 - **Project OPTICA (v1.x):** Autonomous scientific rendering engine for publication-grade vector graphics, including `cnsplots` and PyVis-based topologies.
-- **Project ATHENA (Apex):** Decentralized cooperative mission planning and collision avoidance framework for physical UAV swarms using ST-GAT and HMADRL.
-
 ---
 
 ### GitHub Telemetry & Stats
