@@ -1,9 +1,4 @@
 # ChristosSmarlamakis
-
-# Christos Smarlamakis
-
-**PhD Candidate in Swarm Intelligence & Multi-Agent Systems**  
-*Department of Informatics and Telecommunications | University of the Peloponnese*  
 *Supported by the IEEE Computer Society WEIGD Student Support Fund (2026)*
 
 ---
