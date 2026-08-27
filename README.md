@@ -1,6 +1,9 @@
 # Christos Smarlamakis
 *Supported by the IEEE Computer Society WEIGD Student Support Fund (2026)*
+<br/>
+
 [![IEEE Computer Society WEIGD Fund 2026](https://img.shields.io/badge/IEEE_Computer_Society-WEIGD_Fund_Recipient_2026-006699?style=flat-square&logo=ieee&logoColor=white)](https://www.computer.org/)
+[![Profile Views](https://komarev.com/ghpvc/?username=Christos-Smarlamakis&color=006699&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Christos-Smarlamakis)
 
 ---
 
