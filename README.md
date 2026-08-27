@@ -1,17 +1,9 @@
 # Christos Smarlamakis
-
-<p align="center">
-  <strong>AI Researcher · PhD Researcher · Autonomous Systems · Swarm Intelligence</strong>
-</p>
-
-<p align="center">
-  <em>Supported by the IEEE Computer Society WEIGD Student Support Fund (2026)</em>
-</p>
+*Supported by the IEEE Computer Society WEIGD Student Support Fund (2026)*
 
 ---
 
 ### Research Focus & Interests
-
 - **Spatio-Temporal Graph Neural Networks (ST-GNNs / ST-GAT)** for dynamic spatial-temporal coordination.
 - **Hierarchical Multi-Agent Deep Reinforcement Learning (HMADRL)** under partial observability (POMDPs).
 - **Autonomous UAV Swarm Mission Planning** under safety and energy constraints.
@@ -24,7 +16,6 @@
 ### Technologies & Frameworks
 
 #### Languages & Core
-
 ![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-Programming-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-Programming-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -33,7 +24,6 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-Document_Preparation-008080?style=flat-square&logo=latex&logoColor=white)
 
 #### AI, Reinforcement Learning & Machine Learning
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-RL_Environments-008080?style=flat-square)
 ![Stanford DSPy](https://img.shields.io/badge/Stanford_DSPy-Prompt_Optimization-006699?style=flat-square)
@@ -44,14 +34,12 @@
 ![GWO](https://img.shields.io/badge/GWO-Grey_Wolf_Optimizer-orange?style=flat-square)
 
 #### Distributed Computing & Data Engineering
-
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-Distributed_Computing-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-Spark_Python_API-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-Programming-DC322F?style=flat-square&logo=scala&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-Distributed_Computing-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white)
 
 #### Data Visualization & GUI
-
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Plotting-11557C?style=flat-square&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive_Viz-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical_Viz-4C72B0?style=flat-square)
@@ -59,7 +47,6 @@
 ![Three.js](https://img.shields.io/badge/Three.js-WebGL_3D-000000?style=flat-square&logo=threedotjs&logoColor=white)
 
 #### Systems, Middleware & DevOps
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-Graph_Database-008CC1?style=flat-square&logo=neo4j&logoColor=white)
@@ -71,96 +58,23 @@
 
 ### Core Research Projects
 
-#### Project TALOS
+- **Project TALOS (v5.10.x):** Tactical Agentic Literature Orchestration System. An autonomous decision support platform leveraging hierarchical reinforcement learning and a multi-provider, local-first LLM mesh for systematic scientific discovery.
 
-**Tactical Agentic Literature Orchestration System**
-
-An autonomous decision support platform for systematic scientific discovery, combining hierarchical reinforcement learning, information retrieval, unsupervised learning, and a multi-provider local-first LLM architecture.
-
-**Focus:** Agentic AI · Scientific Discovery · Information Foraging · RL · LLMs · Knowledge Retrieval
+- **Project OPTICA (v1.x):** Autonomous scientific rendering engine for publication-grade vector graphics, including `cnsplots` and PyVis-based topologies.
 
 ---
 
-#### Project OPTICA
-
-**Autonomous Scientific Rendering Engine**
-
-An automated scientific visualization and rendering system designed for publication-grade vector graphics, scientific plots, and graph-based topologies using tools such as `cnsplots` and PyVis.
-
-**Focus:** Scientific Visualization · Automated Rendering · Graph Visualization · Publication Graphics
-
----
-
-#### Grey Wolf Optimizer Research
-
-Research and experimental implementation of the **Grey Wolf Optimizer (GWO)** with benchmark-based evaluation across classical optimization functions.
-
-**Focus:** Metaheuristics · Swarm Intelligence · Numerical Optimization · Benchmarking
-
----
-
-### Research Profiles
-
-<p align="center">
-
-[![ORCID](https://img.shields.io/badge/ORCID-Academic_Profile-A6CE39?style=flat-square&logo=orcid&logoColor=white)](YOUR_ORCID_URL)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Research_Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](YOUR_GOOGLE_SCHOLAR_URL)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Research_Profile-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](YOUR_RESEARCHGATE_URL)
-
-</p>
-
----
-
-### GitHub Statistics
+### GitHub Telemetry & Stats
 
 <div align="center">
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Christos-Smarlamakis&theme=tokyonight" alt="Profile Details" />
-
-<br><br>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Christos-Smarlamakis&theme=tokyonight" alt="GitHub Stats" />
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Christos-Smarlamakis&theme=tokyonight" alt="Top Languages" />
-
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Christos-Smarlamakis&theme=tokyonight" alt="Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Christos-Smarlamakis&theme=tokyonight" alt="GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Christos-Smarlamakis&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Christos-Smarlamakis&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </div>
-
----
-
-### GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Christos-Smarlamakis&theme=tokyonight" alt="GitHub Streak" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Christos-Smarlamakis&theme=tokyo-night" alt="GitHub Activity Graph" />
-
-</div>
-
----
-
-### GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Christos-Smarlamakis&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-
-</div>
-
----
 
 ### Contribution Activity
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/Christos-Smarlamakis/Christos-Smarlamakis/output/github-contribution-grid-snake.svg)
 
----
-
-<p align="center">
-  <em>Researching intelligent, autonomous and decentralized systems through AI, optimization and distributed computing.</em>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Christos-Smarlamakis&color=blue&style=flat-square)
