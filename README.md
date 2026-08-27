@@ -44,8 +44,6 @@
 
 - **Project TALOS (v5.10.x):** Tactical Agentic Literature Orchestration System. An autonomous decision support platform leveraging hierarchical reinforcement learning and a multi-provider local-first LLM mesh for systematic scientific discovery.
 - **Project OPTICA (v1.x):** Autonomous scientific rendering engine for publication-grade vector graphics (cnsplots & PyVis topologies).
-- **Project ATHENA (Apex):** Decentralized cooperative mission planning and collision avoidance framework for physical UAV swarms using ST-GAT and HMADRL.
-
 ---
 
 ### GitHub Telemetry & Stats
