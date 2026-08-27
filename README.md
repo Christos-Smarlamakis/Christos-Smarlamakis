@@ -6,7 +6,7 @@
 ### Research Focus & Interests
 - **Spatio-Temporal Graph Neural Networks (ST-GNNs / ST-GAT)** for dynamic spatial-temporal coordination.
 - **Hierarchical Multi-Agent Deep Reinforcement Learning (HMADRL)** under partial observability (POMDPs).
-- **Autonomous UAV Swarm Mission Planning** under safety, energy, and NATO CJCSI 3160.01A constraints.
+- **Autonomous UAV Swarm Mission Planning** under safety, energy.
 - **Autonomous Decision Support & Information Foraging Systems** (Decoupled & Local-First AI architectures).
 
 ---
