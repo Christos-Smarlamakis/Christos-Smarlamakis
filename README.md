@@ -79,5 +79,5 @@
 
 ### Academic & Professional Contact
 
-- **Institution Email:** [ch.smarlamakis@go.uop.gr](mailto:ch.smarlamakis@go.uop.gr)
-- **Institution Profile:** [University of the Peloponnese](https://www.uop.gr/)
+- **Personal Email:** [christossmarlamakis@gmail.com](mailto:christossmarlamakis@gmail.com)
+
